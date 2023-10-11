@@ -8,7 +8,7 @@
         {
             "name": "Douglas Mburu",
             "email": "dmburu@cytonn.com"
-        },
+        }
     ],
     "require": {
         "php": ">=5.5.9",
